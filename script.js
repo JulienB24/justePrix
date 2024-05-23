@@ -33,7 +33,7 @@ validerButton.style.display = "none";
 input.style.display = "none";
 function afficherImg(valeur) {
   return (
-    '<img src="/img/' +
+    '<img src="./img/' +
     valeur +
     '" class="offset-md-5 col-md-2 mt-2 col-4 offset-4" />'
   );
